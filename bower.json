@@ -1,0 +1,20 @@
+{
+  "name": "cryptoprice",
+  "authors": [
+    "zimingli <reymondli0510@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.6.0"
+  }
+}
