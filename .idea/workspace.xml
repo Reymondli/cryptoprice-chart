@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b6d89f0-1adf-4a2a-8bf7-fcec3bd68e16" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2b6d89f0-1adf-4a2a-8bf7-fcec3bd68e16" name="Default" comment="Add more currency log">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/bower.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cryptoprice-dash.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/cryptoprice-dash.html" afterDir="false" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="cryptoprice-dash.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cryptoprice-dash.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+            <state relative-caret-position="778">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
             </state>
           </provider>
         </entry>
@@ -68,15 +67,20 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/bower_components/font-roboto/package.json" />
       <path value="$PROJECT_DIR$/bower_components/iron-ajax/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/iron-flex-layout/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/paper-spinner/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/paper-styles/package.json" />
       <path value="$PROJECT_DIR$/bower_components/polymer/package.json" />
       <path value="$PROJECT_DIR$/bower_components/shadycss/package.json" />
       <path value="$PROJECT_DIR$/bower_components/webcomponentsjs/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="1680" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -132,24 +136,25 @@
       <option name="presentableId" value="Default" />
       <updated>1529692627091</updated>
       <workItem from="1529692629167" duration="3100000" />
-      <workItem from="1530482935661" duration="450000" />
+      <workItem from="1530482935661" duration="3323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3550000" />
+    <option name="totallyTimeSpent" value="6423000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="1680" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.17635271" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25576368" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -166,6 +171,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add more currency log" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more currency log" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -208,8 +217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cryptoprice-dash.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        <state relative-caret-position="778">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
