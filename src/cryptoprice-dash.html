@@ -2,6 +2,9 @@
 <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
 <link rel="import" href="../bower_components/paper-spinner/paper-spinner-lite.html">
 <link rel="import" href="../bower_components/paper-button/paper-button.html">
+<link rel="import" href="../bower_components/paper-styles/paper-styles.html">
+<link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
 
 <script src="../bower_components/chart.js/dist/Chart.js"></script>
 <script src="../bower_components/moment/moment.js"></script>
@@ -9,7 +12,21 @@
 
 <dom-module id="cryptoprice-dash">
     <template>
-        <style></style>
+        <style>
+            :host {
+                display: block;
+                font-family: 'Roboto Slab', serif;
+
+                --paper-cryptocurrency-primary-text-color: #0667D0;
+            }
+
+            h2 {
+                color: #0667D0;
+                @apply --layout-horizontal;
+                @apply --layout-center-center;
+            }
+
+        </style>
         <h2>Welcome to Crypto Price Chart</h2>
         <iron-ajax
             id="coinbase"
